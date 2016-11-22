@@ -1,5 +1,5 @@
 This is a kernel module for Ralink RT3290 chip which makes it work with Bluez
-software and driver.
+software and driver. Works like a charm on HP 250 g3 laptop.
 
 This module has no official support by Mediatek. Support was discontinued.
 
